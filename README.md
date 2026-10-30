@@ -1,6 +1,7 @@
-# SQL-Data-Analysis-Task-2
-
 # SQL Data Analysis Internship – Task 2 📊
+
+![SQL Data Analysis Task 2](docs/social-preview.png)
+
 
 This project is part of the **SQL Data Analysis Internship (Task 2)**.
 It extends a Student Management Database by adding **Courses** and **Enrollments** tables
